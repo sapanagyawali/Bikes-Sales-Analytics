@@ -2,6 +2,7 @@
 This interactive and insightful dashboard provides a comprehensive analysis of bike sales data by uncovering key trends and patterns in customer demographics and purchasing behaviors. This enables stakeholders to identify growth opportunities by aligning product offerings with customer preferences and behaviors.
 
 **Key Features**
+
 **Income and Purchase Analysis** : 
 Displays the average income per purchase segmented by gender and purchasing decisions, offering insight into customer affordability and spending trends.
 
